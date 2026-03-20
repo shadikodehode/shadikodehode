@@ -1,4 +1,5 @@
 Hi, I'm Shadi Ødegaarden
 
 * Learning fullstack
-* Into art and design
+* Background in 3D design and animation
+* Hobby artist and illustrator
