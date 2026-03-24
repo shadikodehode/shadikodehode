@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I'm Shadi <h1 />
+<h1 align="center">  Hi, I'm Shadi </h1>
 
 <p> 
 * Learning fullstack
@@ -32,4 +32,4 @@
 
 <h3>Projects</h3>
 
-[Digimon Viewer]([Digimon Viewer](https://shadikodehode.github.io/DigimonViewer))
+[Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)
