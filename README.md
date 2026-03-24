@@ -1,14 +1,10 @@
 <h1 align="center">  Hi, I'm Shadi </h1>
 
-<p> 
 * Learning fullstack
 * Background in 3D design and animation
 * Hobby artist and illustrator  
   
 <-- Can you guess my favorite movie? 
-</p>
-
-
 
 <h2>Languages and tools I have proficienty in</h2>
 <p>
@@ -21,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
 </p>
 
-<h3>Design and visual tools</h2>
+<h2>Design and visual tools</h2>
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photosop" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40" />
@@ -30,6 +26,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="maya" width="40" height="40" />
 </p>
 
-<h3>Projects</h3>
+<h2>Projects</h3>
 
 [Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)
