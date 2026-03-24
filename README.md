@@ -1,10 +1,14 @@
-<h1 align="center">  Hi, I'm Shadi<h1 />
+<h1 align="center">  Hi, I'm Shadi <h1 />
 
+<p> 
 * Learning fullstack
 * Background in 3D design and animation
 * Hobby artist and illustrator  
   
-<-- Can you guess my favorite movie?
+<-- Can you guess my favorite movie? 
+</p>
+
+
 
 <h2>Languages and tools I have proficienty in</h2>
 <p>
@@ -28,4 +32,4 @@
 
 <h3>Projects</h3>
 
-[https://shadikodehode.github.io/DigimonViewer/](Digimon Viewer)
+[Digimon Viewer]([Digimon Viewer](https://shadikodehode.github.io/DigimonViewer))
