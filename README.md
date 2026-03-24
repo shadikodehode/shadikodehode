@@ -1,4 +1,4 @@
-# Hi, I'm Shadi Ødegaarden
+<h1 align="center">  # Hi, I'm Shadi<h1 />
 
 * Learning fullstack
 * Background in 3D design and animation
