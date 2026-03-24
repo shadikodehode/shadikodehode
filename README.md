@@ -1,4 +1,4 @@
-<h1 align="center">  # Hi, I'm Shadi<h1 />
+<h1 align="center">  Hi, I'm Shadi<h1 />
 
 * Learning fullstack
 * Background in 3D design and animation
@@ -6,7 +6,7 @@
   
 <-- Can you guess my favorite movie?
 
-<h2>Tools I have proficiency in</h2>
+<h2>Languages and tools I have proficienty in</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
 </p>
 
-<h3>Design and Visual tools</h2>
+<h3>Design and visual tools</h2>
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photosop" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40" />
@@ -25,3 +25,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="maya" width="40" height="40" />
 </p>
+
+<h3>Projects</h3>
+
+[https://shadikodehode.github.io/DigimonViewer/](Digimon Viewer)
