@@ -6,7 +6,7 @@
   
 <-- Can you guess my favorite movie? 
 
-<h2>Languages and tools I have proficienty in</h2>
+<h2>Languages and tools I have proficiency in</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40""></a>
