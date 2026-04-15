@@ -1,8 +1,8 @@
 <h1 align="center">  Hi, I'm Shadi </h1>
 
 * Learning fullstack
-* Background in 3D design and animation
-* Hobby artist and illustrator  
+* 3D design & Animation
+* Artist and Illustrator  
   
 <-- Can you guess my favorite movie? 
 
