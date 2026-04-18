@@ -28,4 +28,6 @@
 
 <h2>Projects</h3>
 
-[Digimon Viewer](https://shadikodehode.github.io/DigimonViewer) [Cat Facts](https://shadikodehode.github.io/CatFact/) [Spider-man Coockie Clicker](https://shadikodehode.github.io/CookieClicker/)
+[Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)  
+[Cat Facts](https://shadikodehode.github.io/CatFact/)  
+[Spider-man Coockie Clicker](https://shadikodehode.github.io/CookieClicker/)
