@@ -3,6 +3,8 @@
 <h3 align="center"> hikapooq@gmail.com </h3>
 <h4 align="center"> +47 95 24 84 44</h4>
 
+<h2>What I do</h2>
+
 * Fullstack | UI/UX | Design
 * 3D Design && Animation && Illustration
 
