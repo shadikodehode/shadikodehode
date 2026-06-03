@@ -1,5 +1,7 @@
 <h1 align="center">  Hi, I'm Shadi </h1>
 
+<h3 align="center"> hikapooq@gmail.com </h3>
+
 * Fullstack | UI/UX | Design
 * 3D Design && Animation && Illustration
 
