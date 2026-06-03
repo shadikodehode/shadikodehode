@@ -5,6 +5,7 @@
 <h2>What I do</h2>
 
 * Fullstack | UI/UX | Design
+  
 * 3D Design && Animation && Illustration
 
 <h2> A little about me</h2>
