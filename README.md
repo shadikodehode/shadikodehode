@@ -2,8 +2,6 @@
 
 * Fullstack | UI/UX | Design
 * 3D Design && Animation && Illustration
-  
-<-- Can you guess my favorite movie? 
 
 <h2>Languages and tools I have proficiency in</h2>
 <p>
