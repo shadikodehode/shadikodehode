@@ -1,5 +1,5 @@
-# <h1 align="center">  Hi, I'm Shadi </h1> #
-<h3 align="center"> hikapooq@gmail.com </h3>
+<h1 align="center">  Hi, I'm Shadi </h1>
+<h2 align="center"> hikapooq@gmail.com </h2>
 <h4 align="center"> +47 95 24 84 44</h4>
 
 <h2>What I do</h2>
