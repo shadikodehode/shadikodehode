@@ -9,7 +9,7 @@
 
 <h2> A little about me</h2>
 <p> 
-  I am a very visual person who loves design and aesthetic. <br/>
+  I am a visual person who loves design and aesthetic. <br/>
   I use this in my code as well, keeping it as clean as possible, focusing on the SOLID principle.
 </p>
 
