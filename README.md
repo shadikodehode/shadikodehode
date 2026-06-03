@@ -7,6 +7,12 @@
 * Fullstack | UI/UX | Design
 * 3D Design && Animation && Illustration
 
+<h2> A little about me</h2>
+<p> 
+  I am a very visual person who loves design and aesthetic.
+  I use this in my code as well, keeping it as clean as possible, focusing on the SOLID principle.
+</p>
+
 <h2>Languages and tools I have proficiency in</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40""></a>
