@@ -13,7 +13,7 @@
   I use this in my code as well, keeping it as clean as possible, focusing on the SOLID principle.
 </p>
 
-<h2>Languages and tools I have proficiency in</h2>
+<h2>Techstack</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40""></a>
@@ -24,7 +24,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40""></a>
   </p>
 
-<h2>Design and visual tools</h2>
+<h2>Designstack</h2>
 <p>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40""></a>
