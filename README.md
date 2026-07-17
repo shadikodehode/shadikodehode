@@ -35,7 +35,7 @@
 </p>
 
 <h2>Projects</h3>
-[Sewer Mike (Pixel RPG)](https://sewer-mike.vercel.app/)
+[Sewer Mike 'Pixel RPG'](https://sewer-mike.vercel.app/)  
 [Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)  
 [Cat Facts](https://shadikodehode.github.io/CatFact/)  
 [Spider-man Coockie Clicker](https://shadikodehode.github.io/CookieClicker/)  
