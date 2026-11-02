@@ -9,7 +9,8 @@
 
 <h2> A little about me</h2>
 <p> 
-  I am a visual person who loves design and aesthetic, with a good eye for detail and problem solving. <br/>
+  I am a visual person who loves design and aesthetic, with a good eye for detail and problem solving
+  I keep to the same principles in coding, I make sure my code is pleasing both in execution and readability <br/>
 </p>
 
 <h2>Techstack</h2>
